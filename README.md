@@ -1,2 +1,2 @@
 # classifier
-說明:從kaggle導入資料集，針對資料集的客戶詳細資訊預測客戶是否會購買商品。利用sklearn對資料進行前置處理，並利用sklearn提供的分類器套件進行分類，有Logistic Regression , SVM , Naïve Bayes , Decision tree , Random forest等等並利用confusion matrix進行結果評估，並比較之間的差異以及如何進行fine-tuning。
+Description: Imported a dataset from Kaggle to predict whether customers would purchase products based on their detailed information. Utilized sklearn for data preprocessing, and employed various classification algorithms provided by sklearn, including Logistic Regression, SVM (Support Vector Machine), Naïve Bayes, Decision Tree, and Random Forest. Evaluated the results using a confusion matrix, compared the differences between these classifiers, and explored how to perform fine-tuning.
